@@ -45,7 +45,7 @@ if (autograbproxy) {
 });
 }
 
-console.log(colors.white(`\n-------------------------------------\n[TITRE] Discord Nitro Code Checker\n     [CREDIT] Auteur : Shigma.exe\n-------------------------------------\n              Paramètres\n-------------------------------------\n[CHECKER] Debug Mode: ${debug}\n[CHECKER] Socks5 Proxies: ${socks5}\n[CHECKER] Auto-Gen: ${autogen}\n[CHECKER] No Error Messages: ${noerrormessages}\n[CHECKER] Auto Grab Proxies: ${autograbproxy}\n-------------------------------------\n`))
+console.log(colors.white(`\n-------------------------------------\n[TITRE] Discord Nitro BruteForce\n     [CREDIT] Auteur : ytzmo#8888\n-------------------------------------\n              Paramètres\n-------------------------------------\n[CHECKER] Debug Mode: ${debug}\n[CHECKER] Socks5 Proxies: ${socks5}\n[CHECKER] Auto-Gen: ${autogen}\n[CHECKER] No Error Messages: ${noerrormessages}\n[CHECKER] Auto Grab Proxies: ${autograbproxy}\n-------------------------------------\n`))
 
 
 getGiftCode = function () {
