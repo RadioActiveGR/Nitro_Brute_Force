@@ -1,4 +1,4 @@
-# Nitro-Brute-Force
+# Nitro_Brute_Force
 
 Step 1 : Install Node.js (https://nodejs.org/en/download/)
 Step 2 : Put your proxies in proxies.txt
